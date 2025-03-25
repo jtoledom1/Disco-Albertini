@@ -109,12 +109,3 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 ¡Gracias por usar este proyecto y feliz encriptación!
 
-
-### Explicación de cada sección del `README.md`:
-
-1. **Introducción**: Explica el propósito del proyecto, es decir, encriptar y desencriptar mensajes utilizando el disco de Alberti.
-2. **Requisitos**: Especifica qué es necesario para ejecutar el programa (Python 3.x).
-3. **Instrucciones para usar**: Detalla cómo clonar el repositorio y ejecutar el script.
-4. **Cómo funciona**: Explica cómo funciona el cifrado y el descifrado, describiendo los discos rotatorios y su rol en el proceso.
-5. **Contribuciones**: Instrucciones para que otros desarrolladores contribuyan al proyecto.
-6. **Licencia**: Información sobre la licencia bajo la cual se distribuye el proyecto (Licencia MIT en este caso).
